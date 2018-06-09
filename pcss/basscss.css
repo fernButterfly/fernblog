@@ -87,6 +87,7 @@ svg {
 
 a {
   color: var(--custom-color-foreground);
+  text-decoration: none;
 }
 
 h1, h2, h3,
@@ -144,4 +145,10 @@ hr {
   border-bottom-width: 1px;
   border-bottom-style: solid;
   border-bottom-color: #ccc;
+}
+
+footer {
+  color: var(--custom-color-background);
+  background-color: var(--custom-color-foreground);
+  min-height: 10rem;
 }
