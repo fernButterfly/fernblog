@@ -8,6 +8,6 @@ layout: layout.hbs
     <img src="/images/profile.jpg" class="mb2" />
     <h1 class="h2 mt0">fernButterfly</h1>
     <p class="mb0">web developer</p>
-    <p class="mb0">(｡´ ‿｀♡)</p>
+    <p class="mb0">🦋 🌺 🌼</p>
   </div>
 </div>
