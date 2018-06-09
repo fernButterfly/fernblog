@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="{{ description }}">
+    <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" />
+    <link rel="icon" href="/favicon.ico" type="image/x-icon">
+    <title>{{ title }}</title>
+    <link href="https://fonts.googleapis.com/css?family=Gaegu:300,400,700" rel="stylesheet">
+    <link inline rel="stylesheet" type="text/css" href="assets/css/basscss.min.css">
+    {{!--<script defer src="https://use.fontawesome.com/releases/v5.0.7/js/all.js"></script>--}}
+  </head>
+  <body>
+<div class="max-width-4 mx-auto">
+  <nav class="clearfix">
+  <div class="left sm-hide">
+    <a href="/" class="btn">
+      <img src="/images/logo.png" width="54" height="54" class="circle align-middle" alt="">
+    </a>
+    <a href="/" class="btn">Home</a>
+    <a href="/blog" class="btn">Blog</a>
+    <a href="/photos" class="btn">Photos</a>
+  </div>
+  <div class="right">
+    <a href="/profile" class="btn">
+      <img src="/images/profile.jpg" width="54" height="54" class="circle align-middle" alt="">
+    </a>
+    {{!--<a href="/profile" class="btn">{{title}}</a>--}}
+  </div>
+  </nav>
+
+</div>
+<div class="max-width-3 mx-auto">
+{{{ contents }}}
+</div>
+<footer>
+  test
+</footer>
+  </body>
+</html>
+
