@@ -33,6 +33,8 @@ layout: layout.hbs
   </div>
 </div>
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/domR-DLjsrc" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
 <p>
 A peep at some distant orb has power to raise and purify our thoughts like a strain of sacred music, or a noble picture, or a passage from the grander poets. It always does one good.
 </p>
